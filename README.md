@@ -1,20 +1,20 @@
-# 👩‍💻 Sia Park | Marketing Generalist - Data-driven Analyst
+# Sia Park | Marketing Specialist - Data-driven Analyst
 
 Hi there! I'm **Sia**, a marketing generalist with over **3 years of hands-on experience** across digital campaigns, content strategy, and performance marketing. Now, I’m transitioning into a **marketing analyst** role – combining my creativity with a deep interest in **data, programming, and AI**.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 📊 E-commerce Retargeting Campaign Analysis
+### E-commerce Retargeting Campaign Analysis
 - Reduced CPA by 30% by analyzing audience segments and optimizing ad schedules.
 - Tools: Google Ads, GA4, Excel
 
-### 📈 Customer Segmentation Dashboard
+### Customer Segmentation Dashboard
 - Created a SQL-based dashboard in Google Data Studio for tracking segment-wise KPIs.
 - Tools: SQL, Google Data Studio, BigQuery
 
-### 🤖 No-code Marketing Automation
+### No-code Marketing Automation
 - Built an automated content + email workflow using ChatGPT + Make (Integromat).
 - Result: Saved ~6 hours/week on repetitive tasks
 
@@ -22,7 +22,7 @@ Hi there! I'm **Sia**, a marketing generalist with over **3 years of hands-on ex
 
 ---
 
-## 🧠 Study Notes (Learning by Doing)
+## Study Notes (Learning by Doing)
 - [SQL Basics](./study/SQL_Basics.md)
 - [Python for KPI Automation](./study/Python_KPI_Automation.md)
 - [Database Modeling](./study/DB_Modeling.md)
@@ -40,7 +40,7 @@ Hi there! I'm **Sia**, a marketing generalist with over **3 years of hands-on ex
 
 ## 📬 Contact
 
-- 📧 siaportfolio@gmail.com  
+- 📧 siapark.data@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/siaportfolio)  
 - 💻 [GitHub Pages Portfolio](https://siaportfolio.github.io/my-portfolio/)
 
