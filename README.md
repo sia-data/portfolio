@@ -30,7 +30,7 @@ Hi there! I'm **Sia**, a marketing generalist with over **3 years of hands-on ex
 
 ---
 
-## 💼 Skills
+## Skills
 
 **Tools**: SQL, Google Analytics, Google Data Studio, Excel, Notion, Figma, Make  
 **Languages**: Python (초급), HTML/CSS  
@@ -38,7 +38,7 @@ Hi there! I'm **Sia**, a marketing generalist with over **3 years of hands-on ex
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 📧 siapark.data@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/siaportfolio)  
