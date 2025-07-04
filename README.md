@@ -61,6 +61,6 @@ I’m currently focused on **conversion funnel analysis, A/B testing, and UX res
 ## Reach me on
 
 - 💌 siapark.data@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/siaportfolio)  
+- 🔗 [LinkedIn](https://linkedin.com/in/sia-park)  
 - 💻 [GitHub Pages Portfolio](https://siaportfolio.github.io/my-portfolio/)
 
