@@ -1,10 +1,13 @@
-# Welcome! I'm Sia Park.
-**Marketing Analyst | Data-Driven Strategist | SQL, GA4, Looker Studio**
+# Sia Park
+**Marketing Analyst | Data-Driven Growth Strategist | Fast Learner & Relentless Problem Solver**
 
-Hi there! I'm **Sia**, a marketing generalist with over **3 years of hands-on experience** across digital campaigns, content strategy, and performance marketing. Now, I’m transitioning into a **marketing analyst** role – combining my creativity with a deep interest in **data, programming, and AI**.
+Hi, I’m **Sia Park** — a marketing professional with 3+ years of hands-on experience driving business growth through digital campaigns, content strategy, and performance marketing. I’m currently transitioning into a marketing analyst role, combining creativity with a growing expertise in **data, programming, and AI**.
 
-I specialize in turning data into actionable growth strategies.  
-Currently focused on: conversion funnel analysis, A/B testing, and UX insights.
+Driven by curiosity and a strong belief in lifelong learning, I’ve consistently built my skills through platforms like **Coursera, W3Schools, and DataCamp**, diving into data analysis, Python, and visualization. I’m especially passionate about turning data into actionable insights to solve real business problems.
+
+I’m currently focused on **conversion funnel analysis, A/B testing, and UX research**, and I actively explore projects on **Kaggle** and **GitHub** to sharpen my analytical thinking. 
+
+**My ultimate goal is to bridge the gap between data and decision-making with empathy, strategy, and technical skill.✨**
 
 ---
 
