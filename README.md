@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sia%20Park&fontSize=90)
 # Sia Park
 **Marketing Analyst | Data-Driven Growth Strategist | Fast Learner & Relentless Problem Solver**
 
