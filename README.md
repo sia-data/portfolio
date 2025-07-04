@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sia%20Park&fontSize=90&fontColor=FFFFFF&fontAlign=75&fontAlignY=35&desc=Learning%20is%20my%20language,%20and%20growth%20is%20my%20story✨&descAlign=70&descAlignY=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sia%20Park&fontSize=90&fontColor=FFFFFF&fontAlign=75&fontAlignY=35&desc=Learning%20is%20my%20language,%20and%20growth%20is%20my%20story&descAlign=70&descAlignY=52)
 # Sia Park
 **Marketing Analyst | Data-Driven Growth Strategist | Fast Learner & Relentless Problem Solver**
 
