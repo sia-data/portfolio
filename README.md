@@ -25,12 +25,6 @@ I’m currently focused on **conversion funnel analysis, A/B testing, and UX res
 - Built an automated content + email workflow using ChatGPT + Make (Integromat).
 - Result: Saved ~6 hours/week on repetitive tasks
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Campaign Funnel Breakdown](link) | GA4 + SQL을 활용한 유입경로 분석 및 전략 제안 | GA4, BigQuery, SQL |
-| [A/B Test Reporting System](link) | 실험 설계, p-value 분석, 자동화된 리포트 구조 | Google Sheets, Python |
-| [UX Optimization Insights](link) | 세션 리플레이 분석 및 퍼널 단계별 UX 개선안 제안 | Hotjar, Figma, Notion |
-
 🔗 [View full portfolio](https://siaportfolio.github.io/my-portfolio/)  <!-- GitHub Pages 주소로 교체 -->
 
 ---
