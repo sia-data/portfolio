@@ -13,7 +13,7 @@ I’m currently focused on **conversion funnel analysis, A/B testing, and UX res
 
 ## Portfolio Highlights
 
-### E-commerce Retargeting Campaign Analysis
+### [E-commerce Retargeting Campaign Analysis](link)
 - Reduced CPA by 30% by analyzing audience segments and optimizing ad schedules.
 - Tools: Google Ads, GA4, Excel
 
