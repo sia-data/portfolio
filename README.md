@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sia%20Park&fontSize=90&fontColor=FFFFFF&fontAlign=75&fontAlignY=35&desc=Learning%20is%20my%20language,%20and%20growth%20is%20my%20story&descAlign=70&descAlignY=54)
-### Marketing Analyst | Data-Driven Growth Strategist | Fast Learner & Relentless Problem Solver
+### Marketing Data Analyst | Business Growth Strategist | Fast Learner & Problem Solver
 ---
 Hi, I’m **Sia Park** — a marketing professional with 3+ years of hands-on experience driving business growth through digital campaigns, content strategy, and performance marketing. I’m currently transitioning into a **marketing analyst role**, combining creativity with a growing expertise in **data, programming, and AI**.
 
